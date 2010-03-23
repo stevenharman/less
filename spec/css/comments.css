@@ -3,6 +3,7 @@
   background-color: orange;
   font-size: 12px;
   content: "content";
+  display: block;
   border: 1px solid black;
   padding: 0;
   margin: 2em;
